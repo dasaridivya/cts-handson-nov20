@@ -1,0 +1,8 @@
+security:
+  oauth:
+    client:
+      clientId: bd06b070-7ff3-4b1d-a2ad-a9ff855cbe9
+      clientSecret: 1a9030fbca47a5b2c28e92f19050bb77824b5ad1
+      accessTokenUri: https://localhost:8080/oauth/token
+      userAuthorizationUri: https://localhost:8080/user
+      clientAuthenticationScheme: form
